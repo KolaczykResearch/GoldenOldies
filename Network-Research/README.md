@@ -1,1 +1,1 @@
-Software for Network-Based Research
+Software for network-based research, organized by publication.
