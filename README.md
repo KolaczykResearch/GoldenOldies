@@ -1,5 +1,4 @@
-# GoldenOldies
-Software from pre-git publications
+# GoldenOldies -- Software from pre-git publications
 
 In the spirit of reproducible research, the Kolaczyk research group has generally aimed to create and freely distribute prototype software implementations of the methodologies developed in our research work. Since roughly 2015, we have aimed to distribute consistently through the group’s Github pages, with one repo per project. The older stuff is available here through this single git repo. 
 
